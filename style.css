@@ -49,8 +49,9 @@ body {
     display: flex;
     align-self: center;
     background-color: #c7ba94;
-    padding: 60px 40px;
+    padding: 50px;
     max-width: 1200px;
+    gap: 10px;
 }
 
 .elemeninti h1 {
