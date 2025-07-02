@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: #F2E2B1;
+    padding: 25px;
+    position: sticky;
+    top: 0%;
+    margin: 0%;
+    height: 50px;
+}
+
+.daftarisi a {
+    margin-left: 50px;
+}
+
+.intro img {
+    width: 50%;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    background-color: #D8AE7E;
+}
+.isi h1 {
+    font-size: 40px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+.paragraf {
+    background-color: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+.elemeninti {
+    display: flex;
+    align-self: center;
+    background-color: #c7ba94;
+    padding: 60px 40px;
+    max-width: 1200px;
+}
+
+.elemeninti h1 {
+    font-weight: bold;
+    margin-top: 1px;
+    
+}
+
+.elemen1 {
+    width: 50%;
+    margin-top: 60px;
+}
+
+.elemen2 {
+    width: 50%;
+    margin-top: 60px;
+}
+
