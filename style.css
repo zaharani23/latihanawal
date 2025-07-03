@@ -51,7 +51,6 @@ body {
     align-self: center;
     background-color: #c7ba94;
     padding: 50px;
-    /* width: 100%; */
     gap: 10px;
 }
 
@@ -71,3 +70,44 @@ body {
     margin-top: 60px;
 }
 
+.kolomdaftar {
+    background-color: #D7D3BF;
+    display: flex;
+    align-items: center;
+    height: 70vh;
+}
+
+.kolomdaftar h2 {
+    margin: 20%;
+    line-height: 1.5;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.daftar input, textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: none;
+  background-color: #fdfdfc;
+  font-weight: bold;
+}
+
+.daftar button {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    background-color: #fdfdfc;
+    align-self: self-end;
+    font-weight: bold;
+}
+
+.ending {
+    padding: 5px;
+    background-color: #a9a388;
+    display: flex;
+    justify-content: center;
+}
