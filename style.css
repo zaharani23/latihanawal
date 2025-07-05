@@ -167,11 +167,11 @@ form {
 }
 
 .berandakanan {
-background-color: #2f3fff;
+background-color: #b19c7b;
   color: white;
   padding: 30px 20px;
   width: 35%;
-  height: 100vh;
+  height: 100%;
 }
 
 .beranda h2 {
@@ -235,7 +235,7 @@ background-color: #2f3fff;
 
 .italic {
   font-style: italic;
-  color: #3a3aff;
+  color: #a6966f;
 }
 
 .date {
@@ -245,7 +245,7 @@ background-color: #2f3fff;
 }
 
 .blue {
-  color: #3a3aff;
+  color: #a6966f;
   font-style: italic;
 }
 
