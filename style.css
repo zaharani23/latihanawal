@@ -168,10 +168,10 @@ form {
 
 .berandakanan {
 background-color: #b19c7b;
+max-height: 100%;
   color: white;
   padding: 30px 20px;
   width: 35%;
-  height: 150%;
 }
 
 .beranda h2 {
