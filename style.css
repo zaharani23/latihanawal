@@ -168,7 +168,7 @@ form {
 
 .berandakanan {
 background-color: #b19c7b;
-max-height: 100%;
+min-height: 100vh;
   color: white;
   padding: 30px 20px;
   width: 35%;
